@@ -1,0 +1,16 @@
+{
+  "name": "pdfmake-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pdfmake.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "pdfmake": "^0.1.33"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
